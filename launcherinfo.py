@@ -1,0 +1,11 @@
+archive_exclude = 'presplash.png'
+build_windows = False
+archive_name = 'data'
+build_mac = False
+documentation_extensions = 'txt html'
+distribution_base = 'MemoirsofanAngel-1.14'
+ignore_extensions = '~ .bak'
+executable_name = 'Memoirs of an Angel'
+archive_include = '*.png *.gif *.jpg *.rpy *.rpyc *.wav *.mp3 *.ogg'
+build_linux = False
+build_all = True
